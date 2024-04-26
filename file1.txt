@@ -1,2 +1,4 @@
 ini adalah file 1
 belajar itu harus keren
+
+perubahan ini di buat oleh developer a
